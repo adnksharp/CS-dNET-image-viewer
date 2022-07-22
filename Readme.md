@@ -9,4 +9,5 @@ Visualizar imagenes usando ```pictureBox```:
   - Rotando la imágen.
   - Cambiando el zoom de la imagen y la sección de la imagen a viualizar.
   
-  Imágen de [藻前まっく](https://twitter.com/hamhsui/status/1547898985431461888/photo/1)
+  
+###### Imágen de [藻前まっく](https://twitter.com/hamhsui/status/1547898985431461888/photo/1)
