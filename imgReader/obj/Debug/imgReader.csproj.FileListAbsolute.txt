@@ -1,0 +1,11 @@
+D:\source\repos\imgReader\imgReader\bin\Debug\imgReader.exe.config
+D:\source\repos\imgReader\imgReader\bin\Debug\imgReader.exe
+D:\source\repos\imgReader\imgReader\bin\Debug\imgReader.pdb
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.csproj.AssemblyReference.cache
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.Form1.resources
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.Properties.Resources.resources
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.csproj.GenerateResource.cache
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.csproj.CoreCompileInputs.cache
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.exe
+D:\source\repos\imgReader\imgReader\obj\Debug\imgReader.pdb
